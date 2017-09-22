@@ -1,0 +1,11 @@
+{
+    "ap": {
+        "ssid": "see_dum",
+        "pwd": "0863219053"
+    },
+    "mqtt": {
+        "broker": "q.emqtt.com",
+        "port": 1883,
+        "keepalive": 20
+    }
+}

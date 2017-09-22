@@ -1,0 +1,11 @@
+{
+    "ap": {
+        "ssid": "Xperia Z2",
+        "pwd": "0000000000"
+    },
+    "mqtt": {
+        "broker": "q.emqtt.com",
+        "port": 1883,
+        "keepalive": 20
+    }
+}
